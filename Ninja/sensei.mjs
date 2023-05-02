@@ -1,4 +1,4 @@
-import Ninja from "./ninjs.mjs";
+import Ninja from "./ninja.mjs";
 
 class Sensei extends Ninja {
 //only pass into constructor the name!! set default values for other attributes
